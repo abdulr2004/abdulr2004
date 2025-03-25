@@ -2,7 +2,7 @@
 
 🎓 Final-year Computer Science (Cyber Security) student 
 🔐 Cybersecurity enthusiast | 🧠 Web3 tinkerer | 🛠️ Full-stack developer  
-| 🌐 Building secure, scalable, real-world solutions  
+🌐 Building secure, scalable, real-world solutions  
 
 ---
 
