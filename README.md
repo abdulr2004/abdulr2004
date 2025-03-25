@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hey there, I’m Abdul Rauf
 
-<!--
-**abdulr2004/abdulr2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Computer Science (Cyber Security) student 
+🔐 Cybersecurity enthusiast | 🧠 Web3 tinkerer | 🛠️ Full-stack developer  
+| 🌐 Building secure, scalable, real-world solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages**: Python 🐍 | JavaScript ⚡ | Java ☕ | SQL | Bash 🖥️  
+- **Web & Frontend**: React.js ⚛️ | HTML/CSS 🎨 | Node.js 📊  
+- **Cloud & DevOps**: AWS (EC2, Lightsail, CloudWatch) ☁️ | GitHub Actions ⚙️  
+- **Security Tools**: Kali Linux 🐉 | Ubuntu | Shell Scripting 🧩  
+- **Data & Visualisation**: D3.js 📈 | MS Office 📊  
+
+---
+
+### 📬 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdulrauf2101/)
+- 💻 [GitHub](https://github.com/abdulr2004)
+  
+---
+
