@@ -17,7 +17,7 @@
 
 ### 📬 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdulrauf2101/)
-- 💻 [GitHub](https://github.com/abdulr2004)
+
   
 ---
 
